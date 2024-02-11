@@ -1,0 +1,21 @@
+body {
+    background-color: blanchedalmond;
+   }
+   hr {
+     background-color: blanchedalmond;
+     border-color: #3618e2;
+     border-style : none;
+     border-top-style: dotted ;
+     border-width: 5px;
+     height:0px;
+     width:5%;
+   }
+   img{
+     height: 240px;
+   }
+   
+   h1{
+    color: blueviolet;
+   }h3{
+    color: blueviolet;
+   }
